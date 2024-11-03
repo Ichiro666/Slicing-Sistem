@@ -1,0 +1,36 @@
+{
+  "routes": [
+    {
+      "src": "/",
+      "dest": "home"
+    },
+    {
+      "src": "/blog",
+      "dest": ""
+    },
+    {
+      "src": "/about",
+      "dest": ""
+    },
+    {
+      "src": "/blog/post",
+      "dest": ""
+    },
+    {
+      "src": "/contact",
+      "dest": ""
+    },
+    {
+      "src": "/category",
+      "dest": ""
+    },
+    {
+      "src": "/privacy",
+      "dest": ""
+    },
+    {
+      "src": "/author",
+      "dest": ""
+    }
+  ]
+}
